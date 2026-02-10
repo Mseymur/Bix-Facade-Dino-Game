@@ -50,6 +50,7 @@ The project consists of two main components:
 
 ## 📄 License
 
+[License](license)
 
 ---
 
